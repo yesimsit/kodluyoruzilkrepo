@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-xxxxx
+![alt text](IMG_1931.PNG?raw=true)
