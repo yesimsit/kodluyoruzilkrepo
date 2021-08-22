@@ -16,4 +16,5 @@ code
 ## Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen neyi değiştirmek istedişinizi tartışmak için bir konu açınız.
 ## Licence
+[MIT](https://choosealicense.com/licenses/mit/)
 
