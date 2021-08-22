@@ -11,9 +11,9 @@ Linux için:
 '''
 cd kodluyoruzilkrepo
 code
-'''
+
+
 ## Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen neyi değiştirmek istedişinizi tartışmak için bir konu açınız.
 ## Licence
 
-![alt text](projee.jpeg?raw=true)
