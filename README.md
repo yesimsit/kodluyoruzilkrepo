@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası ve bir adet index.html dosyası barındırıyor.
+![xxx](projee.jpg)
 ## Installation
 Öncelikle projeyi clonlayın.
 ```
