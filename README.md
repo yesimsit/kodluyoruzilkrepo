@@ -3,7 +3,7 @@ Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 ## Installation
 Öncelikle projeyi clonlayın.
 ```
-git clone 
+git clone https://github.com/yesimsit/kodluyoruzilkrepo 
 ```
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
